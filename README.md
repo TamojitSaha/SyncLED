@@ -7,7 +7,6 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Feedback](#feedback)
 - [Contributors](#contributors)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
